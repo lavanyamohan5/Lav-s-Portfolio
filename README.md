@@ -1,1 +1,1 @@
-🌐 **My Portfolio:** [lavanyamohan.netlify.app](https://lavanyamohan.netlify.app)
+🌐 **My Portfolio:** [lavanyamohan.netlify.app](lavanyamohan7.netlify.app)
